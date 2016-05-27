@@ -8,7 +8,7 @@ import sys
 file = open('output', 'r')
 
 #YOur hiphat roomid. example 1234567
-room_id=2758905
+room_id=
 
 #the name of who is sending the message
 from_name='Tableau Error'
